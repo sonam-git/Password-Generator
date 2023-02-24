@@ -30,7 +30,7 @@ This motivates you to work on Array, function, Javascript Window prompt() method
 # Technologies Used
 * HTML
 * CSS
-* javaScript
+* JavaScript
 # Build Status
 We were already given a starter code for this challange, and we mostly need to code around script.js file to the work done.
 
@@ -41,7 +41,7 @@ Since we’re already given a starter code for this project. I didn’t do anyth
 Added link element with to link the reset.css file and modified it’s relative path.
 ## CSS
 Added style on button ( border styling and hover for the same button, align h2 element center)
-## javaScript
+## JavaScript
 * set default character length as 8
 * created empty array to store the possible user inputs
 * created 4 arrays with different value as per requirement asked in Acceptance Criteria.
